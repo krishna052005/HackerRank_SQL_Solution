@@ -32,6 +32,8 @@ Each solution file follows this standardized format:
 SELECT *  
 FROM CITY;
 
+--- 
+
 ## 🚀 Progress
 
 | Section             | Status        |
