@@ -30,15 +30,15 @@ sql
 --Question:...
 
 ## 🚀 Progress
-Section       |      Status
----
-Basic Select        |⏳ In Progress
-Advanced Select     |⏳ In Progress
-Aggregation         |⏳ In Progress
-Joins               |⏳ In Progress
-Advanced Joins      |⏳ In Progress
-Subqueries          |⏳ In Progress
-Alternative Queries |⏳ In Progress
 
+| Section             | Status        |
+|---------------------|---------------|
+| Basic Select        | ⏳ In Progress |
+| Advanced Select     | ⏳ In Progress |
+| Aggregation         | ⏳ In Progress |
+| Joins               | ⏳ In Progress |
+| Advanced Joins      | ⏳ In Progress |
+| Subqueries          | ⏳ In Progress |
+| Alternative Queries | ⏳ In Progress |
 
-(Will be updated as I solve more problems.)
+*(Will be updated as I solve more problems.)*
