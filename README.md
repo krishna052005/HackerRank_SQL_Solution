@@ -21,13 +21,16 @@ Each folder contains .sql files named after the corresponding HackerRank problem
 
 ## 📝 File Format
 
-Each solution file follows this format:
+Each solution file follows this standardized format:
 
-sql
--- Problem: Revising the Select Query
--- Platform: HackerRank
--- Difficulty: Easy
---Question:...
+'''sql
+-- Problem: Revising the Select Query  
+-- Platform: HackerRank  
+-- Difficulty: Easy  
+-- Question: Write a query to print all attributes for every row in the CITY table.  
+
+SELECT *  
+FROM CITY;
 
 ## 🚀 Progress
 
